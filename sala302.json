@@ -1,0 +1,1011 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "6ad74db037918818fba60ac7",
+      "temperature": 35.16,
+      "pressure": 1008.45,
+      "humidity": 42.33,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T11:17:04.254Z",
+      "created_at": "2026-10-20T11:17:04.254Z"
+    },
+    {
+      "_id": "6ad73f8f37918818fba60ac5",
+      "temperature": 35.58,
+      "pressure": 1008.88,
+      "humidity": 41.34,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T10:16:47.725Z",
+      "created_at": "2026-10-20T10:16:47.726Z"
+    },
+    {
+      "_id": "6ad7314437918818fba60ac3",
+      "temperature": 34.58,
+      "pressure": 1009.22,
+      "humidity": 40.46,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T09:15:48.641Z",
+      "created_at": "2026-10-20T09:15:48.641Z"
+    },
+    {
+      "_id": "6ad7231137918818fba60ac1",
+      "temperature": 34.17,
+      "pressure": 1009.64,
+      "humidity": 39.21,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T08:15:13.519Z",
+      "created_at": "2026-10-20T08:15:13.520Z"
+    },
+    {
+      "_id": "6ad714cd37918818fba60abf",
+      "temperature": 33.92,
+      "pressure": 1009.7,
+      "humidity": 37.31,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T07:14:21.372Z",
+      "created_at": "2026-10-20T07:14:21.372Z"
+    },
+    {
+      "_id": "6ad7068337918818fba60abd",
+      "temperature": 33,
+      "pressure": 1009.74,
+      "humidity": 38.56,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T06:13:23.617Z",
+      "created_at": "2026-10-20T06:13:23.617Z"
+    },
+    {
+      "_id": "6ad6f86937918818fba60abb",
+      "temperature": 32.47,
+      "pressure": 1009.7,
+      "humidity": 36.41,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T05:13:13.255Z",
+      "created_at": "2026-10-20T05:13:13.256Z"
+    },
+    {
+      "_id": "6ad6ea2f37918818fba60ab9",
+      "temperature": 32.49,
+      "pressure": 1009.87,
+      "humidity": 35.66,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T04:12:31.402Z",
+      "created_at": "2026-10-20T04:12:31.403Z"
+    },
+    {
+      "_id": "6ad6dbf837918818fba60ab7",
+      "temperature": 32.47,
+      "pressure": 1010.23,
+      "humidity": 35.62,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T03:11:52.489Z",
+      "created_at": "2026-10-20T03:11:52.489Z"
+    },
+    {
+      "_id": "6ad6cdd437918818fba60ab5",
+      "temperature": 32.54,
+      "pressure": 1010.33,
+      "humidity": 35.75,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T02:11:32.005Z",
+      "created_at": "2026-10-20T02:11:32.005Z"
+    },
+    {
+      "_id": "6ad6bfab37918818fba60ab3",
+      "temperature": 32.49,
+      "pressure": 1010.85,
+      "humidity": 35.78,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T01:11:07.983Z",
+      "created_at": "2026-10-20T01:11:07.984Z"
+    },
+    {
+      "_id": "6ad6b16537918818fba60ab1",
+      "temperature": 32.63,
+      "pressure": 1011.14,
+      "humidity": 35.84,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-20T00:10:13.005Z",
+      "created_at": "2026-10-20T00:10:13.006Z"
+    },
+    {
+      "_id": "6ad6a33037918818fba60aaf",
+      "temperature": 32.8,
+      "pressure": 1011.53,
+      "humidity": 35.35,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T23:09:36.323Z",
+      "created_at": "2026-10-19T23:09:36.323Z"
+    },
+    {
+      "_id": "6ad6951037918818fba60aad",
+      "temperature": 32.85,
+      "pressure": 1011.87,
+      "humidity": 36.32,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T22:09:20.525Z",
+      "created_at": "2026-10-19T22:09:20.526Z"
+    },
+    {
+      "_id": "6ad686ee37918818fba60aab",
+      "temperature": 32.85,
+      "pressure": 1012.35,
+      "humidity": 36.24,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T21:09:02.172Z",
+      "created_at": "2026-10-19T21:09:02.173Z"
+    },
+    {
+      "_id": "6ad678bb37918818fba60aa9",
+      "temperature": 32.87,
+      "pressure": 1012.54,
+      "humidity": 36.59,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T20:08:27.346Z",
+      "created_at": "2026-10-19T20:08:27.346Z"
+    },
+    {
+      "_id": "6ad66a8037918818fba60aa7",
+      "temperature": 32.93,
+      "pressure": 1012.67,
+      "humidity": 36.84,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T19:07:44.203Z",
+      "created_at": "2026-10-19T19:07:44.204Z"
+    },
+    {
+      "_id": "6ad65c5b37918818fba60aa5",
+      "temperature": 32.96,
+      "pressure": 1012.89,
+      "humidity": 37.02,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T18:07:23.133Z",
+      "created_at": "2026-10-19T18:07:23.133Z"
+    },
+    {
+      "_id": "6ad64e3337918818fba60aa3",
+      "temperature": 33.05,
+      "pressure": 1012.85,
+      "humidity": 37.66,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T17:06:59.240Z",
+      "created_at": "2026-10-19T17:06:59.241Z"
+    },
+    {
+      "_id": "6ad6401037918818fba60aa1",
+      "temperature": 33.13,
+      "pressure": 1013.1,
+      "humidity": 35.9,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T16:06:40.838Z",
+      "created_at": "2026-10-19T16:06:40.839Z"
+    },
+    {
+      "_id": "6ad631f237918818fba60a9f",
+      "temperature": 33.13,
+      "pressure": 1013.04,
+      "humidity": 36.97,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T15:06:26.118Z",
+      "created_at": "2026-10-19T15:06:26.119Z"
+    },
+    {
+      "_id": "6ad623cc37918818fba60a9d",
+      "temperature": 33.68,
+      "pressure": 1012.99,
+      "humidity": 39.07,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T14:06:04.627Z",
+      "created_at": "2026-10-19T14:06:04.628Z"
+    },
+    {
+      "_id": "6ad6158037918818fba60a9b",
+      "temperature": 34.56,
+      "pressure": 1012.95,
+      "humidity": 40.1,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T13:05:04.697Z",
+      "created_at": "2026-10-19T13:05:04.700Z"
+    },
+    {
+      "_id": "6ad6074925b6afcd7e0a164a",
+      "temperature": 35.12,
+      "pressure": 1013.02,
+      "humidity": 39.3,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T12:04:25.434Z",
+      "created_at": "2026-10-19T12:04:25.435Z"
+    },
+    {
+      "_id": "6ad5f8ff25b6afcd7e0a1648",
+      "temperature": 35.07,
+      "pressure": 1012.93,
+      "humidity": 39.77,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T11:03:27.482Z",
+      "created_at": "2026-10-19T11:03:27.482Z"
+    },
+    {
+      "_id": "6ad5eabd25b6afcd7e0a1646",
+      "temperature": 34.65,
+      "pressure": 1013.09,
+      "humidity": 40.55,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T10:02:37.919Z",
+      "created_at": "2026-10-19T10:02:37.920Z"
+    },
+    {
+      "_id": "6ad5dc8725b6afcd7e0a1644",
+      "temperature": 34.65,
+      "pressure": 1013.15,
+      "humidity": 37.75,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T09:01:59.169Z",
+      "created_at": "2026-10-19T09:01:59.170Z"
+    },
+    {
+      "_id": "6ad5ce3c25b6afcd7e0a1642",
+      "temperature": 33.99,
+      "pressure": 1012.98,
+      "humidity": 36.57,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T08:01:00.773Z",
+      "created_at": "2026-10-19T08:01:00.773Z"
+    },
+    {
+      "_id": "6ad5c02c25b6afcd7e0a1640",
+      "temperature": 33.26,
+      "pressure": 1013.04,
+      "humidity": 35.64,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T07:01:00.166Z",
+      "created_at": "2026-10-19T07:01:00.169Z"
+    },
+    {
+      "_id": "6ad5b201e48e5c19eab4252e",
+      "temperature": 32.56,
+      "pressure": 1012.65,
+      "humidity": 34.66,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T06:00:33.071Z",
+      "created_at": "2026-10-19T06:00:33.071Z"
+    },
+    {
+      "_id": "6ad5a3d4e48e5c19eab4252c",
+      "temperature": 32.28,
+      "pressure": 1012.3,
+      "humidity": 33.44,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T05:00:04.646Z",
+      "created_at": "2026-10-19T05:00:04.647Z"
+    },
+    {
+      "_id": "6ad595a1e48e5c19eab4252a",
+      "temperature": 32.25,
+      "pressure": 1012.21,
+      "humidity": 34.23,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T03:59:29.549Z",
+      "created_at": "2026-10-19T03:59:29.550Z"
+    },
+    {
+      "_id": "6ad58762e48e5c19eab42528",
+      "temperature": 32.52,
+      "pressure": 1012.21,
+      "humidity": 33.05,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T02:58:42.324Z",
+      "created_at": "2026-10-19T02:58:42.325Z"
+    },
+    {
+      "_id": "6ad57952e48e5c19eab42526",
+      "temperature": 32.38,
+      "pressure": 1011.86,
+      "humidity": 33.11,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T01:58:42.208Z",
+      "created_at": "2026-10-19T01:58:42.209Z"
+    },
+    {
+      "_id": "6ad56b1ee48e5c19eab42524",
+      "temperature": 32.38,
+      "pressure": 1011.7,
+      "humidity": 32.2,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-19T00:58:06.820Z",
+      "created_at": "2026-10-19T00:58:06.820Z"
+    },
+    {
+      "_id": "6ad55d0ae48e5c19eab42522",
+      "temperature": 32.49,
+      "pressure": 1011.8,
+      "humidity": 33.03,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T23:58:02.381Z",
+      "created_at": "2026-10-18T23:58:02.381Z"
+    },
+    {
+      "_id": "6ad54ecde48e5c19eab42520",
+      "temperature": 32.5,
+      "pressure": 1011.67,
+      "humidity": 33.44,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T22:57:17.058Z",
+      "created_at": "2026-10-18T22:57:17.059Z"
+    },
+    {
+      "_id": "6ad54088e48e5c19eab4251e",
+      "temperature": 32.63,
+      "pressure": 1011.49,
+      "humidity": 33.23,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T21:56:24.033Z",
+      "created_at": "2026-10-18T21:56:24.033Z"
+    },
+    {
+      "_id": "6ad5324ae48e5c19eab4251c",
+      "temperature": 32.6,
+      "pressure": 1011.43,
+      "humidity": 33.27,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T20:55:38.748Z",
+      "created_at": "2026-10-18T20:55:38.749Z"
+    },
+    {
+      "_id": "6ad52421e48e5c19eab4251a",
+      "temperature": 32.71,
+      "pressure": 1011.38,
+      "humidity": 33.78,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T19:55:13.924Z",
+      "created_at": "2026-10-18T19:55:13.924Z"
+    },
+    {
+      "_id": "6ad515f8e48e5c19eab42518",
+      "temperature": 32.74,
+      "pressure": 1011.16,
+      "humidity": 32.81,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T18:54:48.207Z",
+      "created_at": "2026-10-18T18:54:48.208Z"
+    },
+    {
+      "_id": "6ad507cce48e5c19eab42516",
+      "temperature": 32.74,
+      "pressure": 1010.74,
+      "humidity": 33.1,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T17:54:20.966Z",
+      "created_at": "2026-10-18T17:54:20.966Z"
+    },
+    {
+      "_id": "6ad4f994e48e5c19eab42514",
+      "temperature": 32.93,
+      "pressure": 1010.28,
+      "humidity": 33.03,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T16:53:40.167Z",
+      "created_at": "2026-10-18T16:53:40.167Z"
+    },
+    {
+      "_id": "6ad4eb81e48e5c19eab42512",
+      "temperature": 32.89,
+      "pressure": 1009.88,
+      "humidity": 32.38,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T15:53:37.998Z",
+      "created_at": "2026-10-18T15:53:37.999Z"
+    },
+    {
+      "_id": "6ad4dd39e48e5c19eab42510",
+      "temperature": 33.2,
+      "pressure": 1009.19,
+      "humidity": 32.67,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T14:52:41.723Z",
+      "created_at": "2026-10-18T14:52:41.724Z"
+    },
+    {
+      "_id": "6ad4cf22e48e5c19eab4250e",
+      "temperature": 33.64,
+      "pressure": 1008.78,
+      "humidity": 32.36,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T13:52:34.206Z",
+      "created_at": "2026-10-18T13:52:34.207Z"
+    },
+    {
+      "_id": "6ad4c0d8e48e5c19eab4250c",
+      "temperature": 34.59,
+      "pressure": 1008.39,
+      "humidity": 31.68,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T12:51:36.413Z",
+      "created_at": "2026-10-18T12:51:36.414Z"
+    },
+    {
+      "_id": "6ad4b2b9e48e5c19eab4250a",
+      "temperature": 34.1,
+      "pressure": 1008.29,
+      "humidity": 30.99,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T11:51:21.827Z",
+      "created_at": "2026-10-18T11:51:21.828Z"
+    },
+    {
+      "_id": "6ad4a493e48e5c19eab42508",
+      "temperature": 34.12,
+      "pressure": 1008.36,
+      "humidity": 31.49,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T10:50:59.163Z",
+      "created_at": "2026-10-18T10:50:59.163Z"
+    },
+    {
+      "_id": "6ad4964be48e5c19eab42506",
+      "temperature": 33.48,
+      "pressure": 1008.51,
+      "humidity": 32.23,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T09:50:03.017Z",
+      "created_at": "2026-10-18T09:50:03.017Z"
+    },
+    {
+      "_id": "6ad48807e48e5c19eab42504",
+      "temperature": 32.83,
+      "pressure": 1008.42,
+      "humidity": 32.93,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T08:49:11.731Z",
+      "created_at": "2026-10-18T08:49:11.731Z"
+    },
+    {
+      "_id": "6ad479c5e48e5c19eab42502",
+      "temperature": 32.56,
+      "pressure": 1007.94,
+      "humidity": 32.46,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T07:48:21.921Z",
+      "created_at": "2026-10-18T07:48:21.922Z"
+    },
+    {
+      "_id": "6ad46b79e48e5c19eab42500",
+      "temperature": 32.45,
+      "pressure": 1007.28,
+      "humidity": 33.21,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T06:47:21.898Z",
+      "created_at": "2026-10-18T06:47:21.898Z"
+    },
+    {
+      "_id": "6ad45d44e48e5c19eab424fe",
+      "temperature": 32.41,
+      "pressure": 1006.79,
+      "humidity": 33.34,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T05:46:44.264Z",
+      "created_at": "2026-10-18T05:46:44.265Z"
+    },
+    {
+      "_id": "6ad44f01e48e5c19eab424fc",
+      "temperature": 32.52,
+      "pressure": 1006.04,
+      "humidity": 34.18,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T04:45:53.995Z",
+      "created_at": "2026-10-18T04:45:53.995Z"
+    },
+    {
+      "_id": "6ad440dce48e5c19eab424fa",
+      "temperature": 32.39,
+      "pressure": 1005.64,
+      "humidity": 33.37,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T03:45:32.845Z",
+      "created_at": "2026-10-18T03:45:32.846Z"
+    },
+    {
+      "_id": "6ad43299e48e5c19eab424f8",
+      "temperature": 32.56,
+      "pressure": 1005.14,
+      "humidity": 33.35,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T02:44:41.584Z",
+      "created_at": "2026-10-18T02:44:41.585Z"
+    },
+    {
+      "_id": "6ad4247be48e5c19eab424f6",
+      "temperature": 32.43,
+      "pressure": 1004.77,
+      "humidity": 33.6,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T01:44:27.512Z",
+      "created_at": "2026-10-18T01:44:27.513Z"
+    },
+    {
+      "_id": "6ad41666e48e5c19eab424f4",
+      "temperature": 32.61,
+      "pressure": 1004.76,
+      "humidity": 33.28,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-18T00:44:22.272Z",
+      "created_at": "2026-10-18T00:44:22.273Z"
+    },
+    {
+      "_id": "6ad4081be48e5c19eab424f2",
+      "temperature": 32.67,
+      "pressure": 1004.43,
+      "humidity": 33.42,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T23:43:23.816Z",
+      "created_at": "2026-10-17T23:43:23.816Z"
+    },
+    {
+      "_id": "6ad3fa09e48e5c19eab424f0",
+      "temperature": 32.78,
+      "pressure": 1004.07,
+      "humidity": 33.35,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T22:43:21.491Z",
+      "created_at": "2026-10-17T22:43:21.492Z"
+    },
+    {
+      "_id": "6ad3ebcee48e5c19eab424ee",
+      "temperature": 32.69,
+      "pressure": 1003.93,
+      "humidity": 33.04,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T21:42:38.718Z",
+      "created_at": "2026-10-17T21:42:38.718Z"
+    },
+    {
+      "_id": "6ad3dd85e48e5c19eab424ec",
+      "temperature": 32.78,
+      "pressure": 1003.62,
+      "humidity": 33.35,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T20:41:41.169Z",
+      "created_at": "2026-10-17T20:41:41.170Z"
+    },
+    {
+      "_id": "6ad3cf6ce48e5c19eab424ea",
+      "temperature": 32.76,
+      "pressure": 1003.19,
+      "humidity": 32.38,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T19:41:32.249Z",
+      "created_at": "2026-10-17T19:41:32.250Z"
+    },
+    {
+      "_id": "6ad3c124e48e5c19eab424e8",
+      "temperature": 32.91,
+      "pressure": 1003.17,
+      "humidity": 33.83,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T18:40:36.162Z",
+      "created_at": "2026-10-17T18:40:36.163Z"
+    },
+    {
+      "_id": "6ad3b2fae48e5c19eab424e6",
+      "temperature": 33,
+      "pressure": 1003.13,
+      "humidity": 32.7,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T17:40:10.959Z",
+      "created_at": "2026-10-17T17:40:10.959Z"
+    },
+    {
+      "_id": "6ad3a4e5e48e5c19eab424e4",
+      "temperature": 33.11,
+      "pressure": 1002.97,
+      "humidity": 32.37,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T16:40:05.887Z",
+      "created_at": "2026-10-17T16:40:05.887Z"
+    },
+    {
+      "_id": "6ad396a0e48e5c19eab424e2",
+      "temperature": 33.64,
+      "pressure": 1002.76,
+      "humidity": 31.89,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T15:39:12.853Z",
+      "created_at": "2026-10-17T15:39:12.853Z"
+    },
+    {
+      "_id": "6ad38866e48e5c19eab424e0",
+      "temperature": 34.23,
+      "pressure": 1002.58,
+      "humidity": 31.93,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T14:38:30.340Z",
+      "created_at": "2026-10-17T14:38:30.341Z"
+    },
+    {
+      "_id": "6ad37a49e48e5c19eab424de",
+      "temperature": 33.95,
+      "pressure": 1002.75,
+      "humidity": 31.28,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T13:38:17.946Z",
+      "created_at": "2026-10-17T13:38:17.947Z"
+    },
+    {
+      "_id": "6ad36c02e48e5c19eab424dc",
+      "temperature": 34.34,
+      "pressure": 1003.04,
+      "humidity": 31.17,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T12:37:22.266Z",
+      "created_at": "2026-10-17T12:37:22.267Z"
+    },
+    {
+      "_id": "6ad35db9e48e5c19eab424da",
+      "temperature": 34.08,
+      "pressure": 1003.32,
+      "humidity": 30.91,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T11:36:25.398Z",
+      "created_at": "2026-10-17T11:36:25.399Z"
+    },
+    {
+      "_id": "6ad34f99e48e5c19eab424d8",
+      "temperature": 33.33,
+      "pressure": 1003.78,
+      "humidity": 31.13,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T10:36:09.693Z",
+      "created_at": "2026-10-17T10:36:09.694Z"
+    },
+    {
+      "_id": "6ad34159e48e5c19eab424d6",
+      "temperature": 33.02,
+      "pressure": 1004.3,
+      "humidity": 30.43,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T09:35:21.164Z",
+      "created_at": "2026-10-17T09:35:21.164Z"
+    },
+    {
+      "_id": "6ad3332be48e5c19eab424d4",
+      "temperature": 32.93,
+      "pressure": 1004.69,
+      "humidity": 30.98,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T08:34:51.533Z",
+      "created_at": "2026-10-17T08:34:51.533Z"
+    },
+    {
+      "_id": "6ad324f3e48e5c19eab424d2",
+      "temperature": 32.72,
+      "pressure": 1004.72,
+      "humidity": 30.85,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T07:34:11.529Z",
+      "created_at": "2026-10-17T07:34:11.530Z"
+    },
+    {
+      "_id": "6ad316dde48e5c19eab424d0",
+      "temperature": 32.54,
+      "pressure": 1004.88,
+      "humidity": 30.62,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T06:34:05.453Z",
+      "created_at": "2026-10-17T06:34:05.454Z"
+    },
+    {
+      "_id": "6ad308bce48e5c19eab424ce",
+      "temperature": 32.41,
+      "pressure": 1004.85,
+      "humidity": 31.25,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T05:33:48.005Z",
+      "created_at": "2026-10-17T05:33:48.005Z"
+    },
+    {
+      "_id": "6ad2fa96e48e5c19eab424cc",
+      "temperature": 32.56,
+      "pressure": 1004.77,
+      "humidity": 31.5,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T04:33:26.526Z",
+      "created_at": "2026-10-17T04:33:26.526Z"
+    },
+    {
+      "_id": "6ad2ec7ce48e5c19eab424ca",
+      "temperature": 32.71,
+      "pressure": 1005,
+      "humidity": 31.9,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T03:33:16.291Z",
+      "created_at": "2026-10-17T03:33:16.291Z"
+    },
+    {
+      "_id": "6ad2de41e48e5c19eab424c8",
+      "temperature": 32.8,
+      "pressure": 1005.49,
+      "humidity": 32.03,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T02:32:33.880Z",
+      "created_at": "2026-10-17T02:32:33.881Z"
+    },
+    {
+      "_id": "6ad2d015e48e5c19eab424c6",
+      "temperature": 32.83,
+      "pressure": 1005.57,
+      "humidity": 31.95,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T01:32:05.997Z",
+      "created_at": "2026-10-17T01:32:05.997Z"
+    },
+    {
+      "_id": "6ad2c1cde48e5c19eab424c4",
+      "temperature": 32.91,
+      "pressure": 1006.38,
+      "humidity": 33.05,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-17T00:31:09.698Z",
+      "created_at": "2026-10-17T00:31:09.699Z"
+    },
+    {
+      "_id": "6ad2b3b4e48e5c19eab424c2",
+      "temperature": 33.04,
+      "pressure": 1007.21,
+      "humidity": 31.83,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T23:31:00.540Z",
+      "created_at": "2026-10-16T23:31:00.541Z"
+    },
+    {
+      "_id": "6ad2a59ce48e5c19eab424c0",
+      "temperature": 33.16,
+      "pressure": 1007.51,
+      "humidity": 32.71,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T22:30:52.690Z",
+      "created_at": "2026-10-16T22:30:52.691Z"
+    },
+    {
+      "_id": "6ad2975de48e5c19eab424be",
+      "temperature": 33.24,
+      "pressure": 1007.62,
+      "humidity": 33.31,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T21:30:05.451Z",
+      "created_at": "2026-10-16T21:30:05.451Z"
+    },
+    {
+      "_id": "6ad2894be48e5c19eab424bc",
+      "temperature": 33.35,
+      "pressure": 1007.97,
+      "humidity": 33.59,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T20:30:03.792Z",
+      "created_at": "2026-10-16T20:30:03.792Z"
+    },
+    {
+      "_id": "6ad27b12e48e5c19eab424ba",
+      "temperature": 33.46,
+      "pressure": 1008.41,
+      "humidity": 34.32,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T19:29:22.089Z",
+      "created_at": "2026-10-16T19:29:22.089Z"
+    },
+    {
+      "_id": "6ad26ccfe48e5c19eab424b8",
+      "temperature": 33.7,
+      "pressure": 1008.46,
+      "humidity": 34.28,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T18:28:31.033Z",
+      "created_at": "2026-10-16T18:28:31.034Z"
+    },
+    {
+      "_id": "6ad25e8be48e5c19eab424b6",
+      "temperature": 33.92,
+      "pressure": 1008.86,
+      "humidity": 35.06,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T17:27:39.005Z",
+      "created_at": "2026-10-16T17:27:39.005Z"
+    },
+    {
+      "_id": "6ad25071e48e5c19eab424b4",
+      "temperature": 34.39,
+      "pressure": 1009.07,
+      "humidity": 34.95,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T16:27:29.610Z",
+      "created_at": "2026-10-16T16:27:29.611Z"
+    },
+    {
+      "_id": "6ad24231e48e5c19eab424b2",
+      "temperature": 35.05,
+      "pressure": 1009.23,
+      "humidity": 34.67,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T15:26:41.540Z",
+      "created_at": "2026-10-16T15:26:41.541Z"
+    },
+    {
+      "_id": "6ad233e9e48e5c19eab424b0",
+      "temperature": 36.48,
+      "pressure": 1009.26,
+      "humidity": 33.28,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T14:25:45.346Z",
+      "created_at": "2026-10-16T14:25:45.346Z"
+    },
+    {
+      "_id": "6ad225a9e48e5c19eab424ae",
+      "temperature": 36.68,
+      "pressure": 1009.78,
+      "humidity": 33.08,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T13:24:57.954Z",
+      "created_at": "2026-10-16T13:24:57.954Z"
+    },
+    {
+      "_id": "6ad2178de48e5c19eab424ac",
+      "temperature": 36.44,
+      "pressure": 1010.48,
+      "humidity": 33.52,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T12:24:45.726Z",
+      "created_at": "2026-10-16T12:24:45.727Z"
+    },
+    {
+      "_id": "6ad2094be48e5c19eab424aa",
+      "temperature": 35.84,
+      "pressure": 1011.06,
+      "humidity": 34.7,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T11:23:55.984Z",
+      "created_at": "2026-10-16T11:23:55.985Z"
+    },
+    {
+      "_id": "6ad1fb1ae48e5c19eab424a8",
+      "temperature": 35.73,
+      "pressure": 1011.5,
+      "humidity": 34.64,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T10:23:22.909Z",
+      "created_at": "2026-10-16T10:23:22.910Z"
+    },
+    {
+      "_id": "6ad1ecd3e48e5c19eab424a6",
+      "temperature": 35.82,
+      "pressure": 1012.18,
+      "humidity": 34.32,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T09:22:27.898Z",
+      "created_at": "2026-10-16T09:22:27.899Z"
+    },
+    {
+      "_id": "6ad1debbe48e5c19eab424a4",
+      "temperature": 35.25,
+      "pressure": 1012.47,
+      "humidity": 35.63,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T08:22:19.254Z",
+      "created_at": "2026-10-16T08:22:19.255Z"
+    },
+    {
+      "_id": "6ad1d081e48e5c19eab424a2",
+      "temperature": 34.74,
+      "pressure": 1012.53,
+      "humidity": 36.15,
+      "deviceId": "raspberry-sensehat",
+      "location": "laboratorium",
+      "timestamp": "2026-10-16T07:21:37.447Z",
+      "created_at": "2026-10-16T07:21:37.449Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1840,
+    "pages": 19
+  }
+}

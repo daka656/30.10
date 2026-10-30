@@ -1,0 +1,17 @@
+[
+  {
+    "Imie": "Anna",
+    "Wiek": 17,
+    "Ocena": 5
+  },
+  {
+    "Imie": "Jan",
+    "Wiek": 18,
+    "Ocena": 4
+  },
+  {
+    "Imie": "Adam",
+    "Wiek": 17,
+    "Ocena": 2
+  }
+]

@@ -1,0 +1,4 @@
+   Imie  Wiek  Ocena
+0  Anna    17      5
+1   Jan    18      4
+2  Adam    17      3
